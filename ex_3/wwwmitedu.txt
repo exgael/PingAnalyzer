@@ -1,0 +1,25 @@
+PING e9566.dscb.akamaiedge.net (23.64.247.38): 56 data bytes
+64 bytes from 23.64.247.38: icmp_seq=0 ttl=51 time=25.676 ms
+64 bytes from 23.64.247.38: icmp_seq=1 ttl=51 time=25.508 ms
+64 bytes from 23.64.247.38: icmp_seq=2 ttl=51 time=26.306 ms
+64 bytes from 23.64.247.38: icmp_seq=3 ttl=51 time=25.313 ms
+64 bytes from 23.64.247.38: icmp_seq=4 ttl=51 time=44.311 ms
+64 bytes from 23.64.247.38: icmp_seq=5 ttl=51 time=27.875 ms
+64 bytes from 23.64.247.38: icmp_seq=6 ttl=51 time=25.543 ms
+64 bytes from 23.64.247.38: icmp_seq=7 ttl=51 time=28.581 ms
+64 bytes from 23.64.247.38: icmp_seq=8 ttl=51 time=28.236 ms
+64 bytes from 23.64.247.38: icmp_seq=9 ttl=51 time=24.967 ms
+64 bytes from 23.64.247.38: icmp_seq=10 ttl=51 time=28.159 ms
+64 bytes from 23.64.247.38: icmp_seq=11 ttl=51 time=41.402 ms
+64 bytes from 23.64.247.38: icmp_seq=12 ttl=51 time=26.544 ms
+64 bytes from 23.64.247.38: icmp_seq=13 ttl=51 time=27.305 ms
+64 bytes from 23.64.247.38: icmp_seq=14 ttl=51 time=29.482 ms
+64 bytes from 23.64.247.38: icmp_seq=15 ttl=51 time=27.457 ms
+64 bytes from 23.64.247.38: icmp_seq=16 ttl=51 time=26.346 ms
+64 bytes from 23.64.247.38: icmp_seq=17 ttl=51 time=29.813 ms
+64 bytes from 23.64.247.38: icmp_seq=18 ttl=51 time=29.015 ms
+64 bytes from 23.64.247.38: icmp_seq=19 ttl=51 time=29.315 ms
+
+--- e9566.dscb.akamaiedge.net ping statistics ---
+20 packets transmitted, 20 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 24.967/28.858/44.311/4.910 ms

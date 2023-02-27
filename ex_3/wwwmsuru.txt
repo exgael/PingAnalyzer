@@ -1,0 +1,25 @@
+PING www.msu.ru (178.154.243.30): 56 data bytes
+64 bytes from 178.154.243.30: icmp_seq=0 ttl=43 time=140.692 ms
+64 bytes from 178.154.243.30: icmp_seq=1 ttl=43 time=162.132 ms
+64 bytes from 178.154.243.30: icmp_seq=2 ttl=43 time=143.331 ms
+64 bytes from 178.154.243.30: icmp_seq=3 ttl=43 time=140.986 ms
+64 bytes from 178.154.243.30: icmp_seq=4 ttl=43 time=140.600 ms
+64 bytes from 178.154.243.30: icmp_seq=5 ttl=43 time=155.943 ms
+64 bytes from 178.154.243.30: icmp_seq=6 ttl=43 time=141.885 ms
+64 bytes from 178.154.243.30: icmp_seq=7 ttl=43 time=142.071 ms
+64 bytes from 178.154.243.30: icmp_seq=8 ttl=43 time=150.050 ms
+64 bytes from 178.154.243.30: icmp_seq=9 ttl=43 time=141.136 ms
+64 bytes from 178.154.243.30: icmp_seq=10 ttl=43 time=143.875 ms
+64 bytes from 178.154.243.30: icmp_seq=11 ttl=43 time=141.032 ms
+64 bytes from 178.154.243.30: icmp_seq=12 ttl=43 time=141.472 ms
+64 bytes from 178.154.243.30: icmp_seq=13 ttl=43 time=141.574 ms
+64 bytes from 178.154.243.30: icmp_seq=14 ttl=43 time=141.280 ms
+64 bytes from 178.154.243.30: icmp_seq=15 ttl=43 time=157.063 ms
+64 bytes from 178.154.243.30: icmp_seq=16 ttl=43 time=143.452 ms
+64 bytes from 178.154.243.30: icmp_seq=17 ttl=43 time=143.972 ms
+64 bytes from 178.154.243.30: icmp_seq=18 ttl=43 time=140.886 ms
+64 bytes from 178.154.243.30: icmp_seq=19 ttl=43 time=140.694 ms
+
+--- www.msu.ru ping statistics ---
+20 packets transmitted, 20 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 140.600/144.706/162.132/6.191 ms

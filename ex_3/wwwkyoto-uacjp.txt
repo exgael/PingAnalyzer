@@ -1,0 +1,25 @@
+PING dualstack.j.sni.global.fastly.net (151.101.126.132): 56 data bytes
+64 bytes from 151.101.126.132: icmp_seq=0 ttl=57 time=14.984 ms
+64 bytes from 151.101.126.132: icmp_seq=1 ttl=57 time=14.635 ms
+64 bytes from 151.101.126.132: icmp_seq=2 ttl=57 time=17.935 ms
+64 bytes from 151.101.126.132: icmp_seq=3 ttl=57 time=15.830 ms
+64 bytes from 151.101.126.132: icmp_seq=4 ttl=57 time=14.947 ms
+64 bytes from 151.101.126.132: icmp_seq=5 ttl=57 time=15.028 ms
+64 bytes from 151.101.126.132: icmp_seq=6 ttl=57 time=15.158 ms
+64 bytes from 151.101.126.132: icmp_seq=7 ttl=57 time=15.604 ms
+64 bytes from 151.101.126.132: icmp_seq=8 ttl=57 time=18.357 ms
+64 bytes from 151.101.126.132: icmp_seq=9 ttl=57 time=14.889 ms
+64 bytes from 151.101.126.132: icmp_seq=10 ttl=57 time=35.791 ms
+64 bytes from 151.101.126.132: icmp_seq=11 ttl=57 time=17.773 ms
+64 bytes from 151.101.126.132: icmp_seq=12 ttl=57 time=18.172 ms
+64 bytes from 151.101.126.132: icmp_seq=13 ttl=57 time=15.243 ms
+64 bytes from 151.101.126.132: icmp_seq=14 ttl=57 time=17.236 ms
+64 bytes from 151.101.126.132: icmp_seq=15 ttl=57 time=14.922 ms
+64 bytes from 151.101.126.132: icmp_seq=16 ttl=57 time=15.501 ms
+64 bytes from 151.101.126.132: icmp_seq=17 ttl=57 time=14.887 ms
+64 bytes from 151.101.126.132: icmp_seq=18 ttl=57 time=15.107 ms
+64 bytes from 151.101.126.132: icmp_seq=19 ttl=57 time=15.071 ms
+
+--- dualstack.j.sni.global.fastly.net ping statistics ---
+20 packets transmitted, 20 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 14.635/16.854/35.791/4.515 ms

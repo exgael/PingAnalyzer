@@ -1,0 +1,25 @@
+PING fip-185-155-93-186.iaas.unistra.fr (185.155.93.186): 56 data bytes
+64 bytes from 185.155.93.186: icmp_seq=0 ttl=43 time=112.012 ms
+64 bytes from 185.155.93.186: icmp_seq=1 ttl=43 time=111.347 ms
+64 bytes from 185.155.93.186: icmp_seq=2 ttl=43 time=114.737 ms
+64 bytes from 185.155.93.186: icmp_seq=3 ttl=43 time=114.089 ms
+64 bytes from 185.155.93.186: icmp_seq=4 ttl=43 time=111.539 ms
+64 bytes from 185.155.93.186: icmp_seq=5 ttl=43 time=113.994 ms
+64 bytes from 185.155.93.186: icmp_seq=6 ttl=43 time=111.111 ms
+64 bytes from 185.155.93.186: icmp_seq=7 ttl=43 time=114.298 ms
+64 bytes from 185.155.93.186: icmp_seq=8 ttl=43 time=114.097 ms
+64 bytes from 185.155.93.186: icmp_seq=9 ttl=43 time=111.581 ms
+64 bytes from 185.155.93.186: icmp_seq=10 ttl=43 time=113.663 ms
+64 bytes from 185.155.93.186: icmp_seq=11 ttl=43 time=112.592 ms
+64 bytes from 185.155.93.186: icmp_seq=12 ttl=43 time=110.659 ms
+64 bytes from 185.155.93.186: icmp_seq=13 ttl=43 time=110.904 ms
+64 bytes from 185.155.93.186: icmp_seq=14 ttl=43 time=111.398 ms
+64 bytes from 185.155.93.186: icmp_seq=15 ttl=43 time=110.990 ms
+64 bytes from 185.155.93.186: icmp_seq=16 ttl=43 time=110.620 ms
+64 bytes from 185.155.93.186: icmp_seq=17 ttl=43 time=110.690 ms
+64 bytes from 185.155.93.186: icmp_seq=18 ttl=43 time=113.862 ms
+64 bytes from 185.155.93.186: icmp_seq=19 ttl=43 time=113.878 ms
+
+--- fip-185-155-93-186.iaas.unistra.fr ping statistics ---
+20 packets transmitted, 20 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 110.620/112.403/114.737/1.449 ms
