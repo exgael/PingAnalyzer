@@ -1,4 +1,4 @@
-# inf3271-tp1
+# PingAnalyzer
 
 destinations.json contains all websites pinged, and their distances from montreal
 
